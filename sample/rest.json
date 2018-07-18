@@ -1,11 +1,9 @@
 [
     {
-        "method": "PUT",
-        "url": "blah.com",
-        "headers": [
-            {
-                "Access-Token": "Blah"
-            }
-        ]
+        "method": "GET",
+        "url": "http://localhost:8081/shadow/GEN1ODIN",
+        "headers":{
+            "Access-Token": "blah"
+        }
     }
 ]
